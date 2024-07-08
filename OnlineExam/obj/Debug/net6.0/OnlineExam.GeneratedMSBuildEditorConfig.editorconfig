@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineExam
+build_property.RootNamespace = OnlineExam
+build_property.ProjectDir = E:\工作相关\软开方向\C#\OnlineExamGraduateProject\OnlineExam\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\工作相关\软开方向\C#\OnlineExamGraduateProject\OnlineExam
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/CreateExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxDcmVhdGVFeGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/CreateQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxDcmVhdGVRdWVzdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/EditExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxFZGl0RXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/EditQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxFZGl0UXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/ExamResultDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxFeGFtUmVzdWx0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/ViewQuestions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxWaWV3UXVlc3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Exam/ViewResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxWaWV3UmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Shared/SideNavBarCreateExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGVOYXZCYXJDcmVhdGVFeGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Shared/_SideNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlTmF2QmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Shared/_StudentExamBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50RXhhbUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/StudentAnswer/AddAnswer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFuc3dlclxBZGRBbnN3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/StudentAnswer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFuc3dlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/StudentAnswer/StudentExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFuc3dlclxTdHVkZW50RXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/StudentAnswer/Submit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudEFuc3dlclxTdWJtaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/工作相关/软开方向/C\#/OnlineExamGraduateProject/OnlineExam/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tz6xupl3tp

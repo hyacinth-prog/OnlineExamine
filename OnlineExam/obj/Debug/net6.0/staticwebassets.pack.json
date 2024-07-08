@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OnlineExam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineExam.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\ExamCreateExam.css",
+      "PackagePath": "staticwebassets\\css\\ExamCreateExam.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\ExamCreateQuestion.css",
+      "PackagePath": "staticwebassets\\css\\ExamCreateQuestion.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\ExamEditQuestion.css",
+      "PackagePath": "staticwebassets\\css\\ExamEditQuestion.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\ExamIndex.css",
+      "PackagePath": "staticwebassets\\css\\ExamIndex.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\ExamResultDetails.css",
+      "PackagePath": "staticwebassets\\css\\ExamResultDetails.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\ExamViewQuestions.css",
+      "PackagePath": "staticwebassets\\css\\ExamViewQuestions.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\ExamViewResults.css",
+      "PackagePath": "staticwebassets\\css\\ExamViewResults.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\HomeIndex.css",
+      "PackagePath": "staticwebassets\\css\\HomeIndex.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\SideNavBar.css",
+      "PackagePath": "staticwebassets\\css\\SideNavBar.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\SideNavBarCreateExam.css",
+      "PackagePath": "staticwebassets\\css\\SideNavBarCreateExam.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\StudentAnswerIndex.css",
+      "PackagePath": "staticwebassets\\css\\StudentAnswerIndex.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\StudentAnswerStudentExam.css",
+      "PackagePath": "staticwebassets\\css\\StudentAnswerStudentExam.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\StudentAnswerSubmit.css",
+      "PackagePath": "staticwebassets\\css\\StudentAnswerSubmit.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\images\\dashboard_img.png",
+      "PackagePath": "staticwebassets\\images\\dashboard_img.png"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\images\\examList_img.png",
+      "PackagePath": "staticwebassets\\images\\examList_img.png"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\images\\home_img.jpg",
+      "PackagePath": "staticwebassets\\images\\home_img.jpg"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\images\\login_img.jpg",
+      "PackagePath": "staticwebassets\\images\\login_img.jpg"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\images\\login_img.png",
+      "PackagePath": "staticwebassets\\images\\login_img.png"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\images\\results_img.png",
+      "PackagePath": "staticwebassets\\images\\results_img.png"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\工作相关\\软开方向\\C#\\OnlineExamGraduateProject\\OnlineExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OnlineExam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OnlineExam.props",
+      "PackagePath": "build\\OnlineExam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineExam.props",
+      "PackagePath": "buildMultiTargeting\\OnlineExam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OnlineExam.props",
+      "PackagePath": "buildTransitive\\OnlineExam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
