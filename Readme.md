@@ -15,34 +15,8 @@ The Student Examination Monitoring System is a web-based platform designed to si
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Backend:** ASP.NET MVC (or ASP.NET Core for .NET 6), C#
-- **Database:** SQL Server
+- **Database:** MySQL
 
-
-## Getting Started
-
-### Prerequisites
-
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) installed on your machine
-- `[Visual Studio / Visual Studio Code]` or any preferred code editor
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Ahmd-Naser/OnlineExamGraduateProject.git
-2. Navigate to the project folder:
-
-   ```bash
-   cd OnlineExamGraduateProject/OnlineExam
-3. Open the project in your preferred code editor.
-
-4. Configure the necessary dependencies and packages (see Dependencies section).
-
-5. Run the application:
-
-   ```bash
-   dotnet run
 ## Usage
 
 1. Create a Teacher Account:
